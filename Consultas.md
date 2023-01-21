@@ -1,7 +1,7 @@
 
 Organizei o desafio em um arquivo .markdown, pois achei mais adequado do que um .sql para estes fins, ja que não foi exigido nenhum pré-requisito de formatação de arquivo para a resolução do mesmo
 
-**OBS: Estou adequando minhas consultas para o uso do MySql
+**OBS: Estou adequando minhas consultas para o uso do MySql**
 
 ```
  1 - Buscar o nome e ano dos filmes
